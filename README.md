@@ -2,3 +2,6 @@
 
 Estudo de Git e Github <br>
 > Status do projeto: em desenvolvimento
+```
+node app.js
+```
